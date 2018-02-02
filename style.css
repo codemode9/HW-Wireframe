@@ -1,0 +1,72 @@
+body {
+    background-color: gray;
+    margin: 10px;
+}
+header {
+    background-color: lightgrey;
+    text-align: center;
+    height: 50px;
+    margin: 10px;
+}
+nav {
+    display: block;
+    background-color: #d3d3d3;
+    height: 50px;
+    text-align: center;
+    margin: 10px;
+}
+.right-aside {
+    background-color: lightgrey;
+    height: 400px;
+    width: 400px;
+    display: inline;
+    position: absolute;
+    top: 150px;
+    right: 50px;
+    text-align: center;
+}
+.left-section {
+    background: lightgrey;
+    display: inline;
+    position: absolute;
+    height: 400px;
+    width: 350px;
+    top: 150px;
+    left: 50px;
+}
+article {
+    background-color: gray;
+    display: block;
+    height: 300px;
+    width: 250px;
+    padding: 10px;
+    position: relative;
+    left: 40px;
+    top: 50px;
+}
+.headers {
+    background: lightgrey;
+    display: block;
+    height: 125px;
+    width: 200px;
+    text-align: center;
+    position: relative;
+    left: 25px;
+}
+.paragraph {
+    background: lightgrey;
+    display: block;
+    height: 125px;
+    width: 250px;
+    position: relative;
+    left: 90px;
+    top: 250px;
+}
+footer {
+    background-color: lightgrey;
+    text-align: center;
+    height: 50px;
+    margin: 10px;
+    position: relative;
+    top: 350px;
+}
